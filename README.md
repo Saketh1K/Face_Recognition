@@ -29,6 +29,7 @@ This project is a **Face Recognition Attendance System** that detects and identi
 
 
 
+
 ```
 
 ---
