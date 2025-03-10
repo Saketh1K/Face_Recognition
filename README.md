@@ -75,27 +75,10 @@ Run the script to capture face data:
    ```
    - Opens a web dashboard to view real-time attendance.
 
----
-
 ## 🏗 Future Improvements
 - 🏷️ Improve accuracy with deep learning (e.g., CNNs)
 - 🌍 Cloud storage for attendance records
-- 📱 Mobile app integration
 
----
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-
----
-
-🎉 **Happy Coding!**
-```
-
----
 
 ### 📌 Next Steps:
 - Save this file as **README.md** in your project folder.
@@ -106,4 +89,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
   git push origin main
   ```
 
-Let me know if you need any modifications! 🚀
+
