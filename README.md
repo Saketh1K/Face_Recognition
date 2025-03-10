@@ -20,12 +20,13 @@ This project is a **Face Recognition Attendance System** that detects and identi
 ## 📂 Project Structure
 ```
 📁 Face_Recognition
-│── 📁 data # Stores trained face data (names.pkl, faces.pkl)
-│── 📁 Attendance # Stores attendance CSV files
-│── 📄 add_faces.py # Script to add new faces to the dataset
-│── 📄 test.py # Main face recognition and attendance script
-│── 📄 app.py # Streamlit-based attendance dashboard
-│── 📄 README.md # Project documentation (this file) 
+│── 📁 data              # Stores trained face data (names.pkl, faces.pkl)
+│── 📁 Attendance        # Stores attendance CSV files
+│── 📄 add_faces.py      # Script to add new faces to the dataset
+│── 📄 test.py           # Main face recognition and attendance script
+│── 📄 app.py            # Streamlit-based attendance dashboard
+│── 📄 README.md         # Project documentation (this file)
+
 
 
 ```
